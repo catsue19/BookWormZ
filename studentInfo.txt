@@ -1,0 +1,7 @@
+ATTA,    1
+CATHERINE,    1
+OLLIE
+APPLE,    3
+PEAR,    4,    4
+ORANGE,   3,   4,  4
+MANGO, 2, 0
